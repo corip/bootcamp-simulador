@@ -15,7 +15,7 @@ Proyecto utilizando maven y base de datos H2
 			"monto": "1600",
 			"cuota": "36",
 			"tea":"22%",
-			"diaPago":"11"
+			"diaPago":"20"
 			}
 			
 			
@@ -23,7 +23,7 @@ Proyecto utilizando maven y base de datos H2
 			 "resultado": {
 				"cuota": "59.503113",
 				"moneda": "S/",
-				"primeraCuota": "11/5/2021",
+				"primeraCuota": "20/5/2021",
 				"estado": "exitoso"
 			}
 			
