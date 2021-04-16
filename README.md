@@ -5,6 +5,7 @@ Proyecto utilizando maven y base de datos H2
  http://localhost:8085/simulador
  
  GET: se obtiene los valores iniciales del simulador. Dias de pago, teas, tarjetas, etc
+ 
  POST: calcula la cuota inicial a pagar. Recibir como parámetros el siguiente json:
  
 			{
