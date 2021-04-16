@@ -1,5 +1,5 @@
 # bootcamp-simulador
-Proyecto utilizando maven y base de datos H2
+Proyecto utilizando maven y base de datos H2. Version de java 8 o superior.
 
 #EndPoints
  http://localhost:8085/simulador
