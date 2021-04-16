@@ -31,8 +31,11 @@ Proyecto utilizando maven y base de datos H2
 Para las pruebas se registraron DNI's y se les asociaron tarjetas, a continuación la relación de los DNI y tarjetas:	
 
 48267857 clasica,oro,black
+
 10067857 oro
+
 75367857 clasica,black
+
 98756661 clasica	
 
 En caso se desee registrar otros DNI's o asociaciones a tarjetas, modificar el archivo import.sql
